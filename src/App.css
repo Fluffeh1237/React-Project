@@ -67,7 +67,6 @@
   box-shadow: none;
 }
 
-/* Remove default container padding and max-width */
 .container {
   padding-left: 0 !important;
   padding-right: 0 !important;
@@ -75,13 +74,11 @@
   width: 100%;
 }
 
-/* Add padding to the content inside container */
 .container > * {
   padding-left: 1rem;
   padding-right: 1rem;
 }
 
-/* Responsive adjustments */
 @media (max-width: 768px) {
   .container > * {
     padding-left: 0.5rem;

@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-primary">
       <div className="container-fluid">
-        <Link className="navbar-brand" to="/">Productivity App</Link>
+        <Link className="navbar-brand" to="/">Markify</Link>
         
         <button 
           className="navbar-toggler" 

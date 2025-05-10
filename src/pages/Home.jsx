@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const Home = () => {
   return (
     <div className="container-fluid py-4">
-      <h1 className="text-center mb-4">Welcome to Your Productivity App</h1>
+      <h1 className="text-center mb-4">Mark Your Productivity</h1>
       
       <div className="row g-4">
         <div className="col-md-6">
